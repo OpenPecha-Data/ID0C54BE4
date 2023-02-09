@@ -1,0 +1,47 @@
+id: 706d7efb8e2e4dffb39c91b63c2f2dcf
+annotation_type: index
+revision: '00001'
+annotations:
+  a69557ba661e4fc586874b0458010656:
+    base: E4F0.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 125
+    - title: Homage
+      span:
+        start: 126
+        end: 171
+    - title: Short §1
+      span:
+        start: 172
+        end: 363
+    - title: Short §2
+      span:
+        start: 364
+        end: 550
+    - title: Short §3
+      span:
+        start: 551
+        end: 623
+    - title: Short §4
+      span:
+        start: 624
+        end: 1031
+    - title: Short §5
+      span:
+        start: 1032
+        end: 1271
+    - title: Short §6
+      span:
+        start: 1272
+        end: 1651
+    - title: Short §7
+      span:
+        start: 1652
+        end: 1964
+    - title: Colophon
+      span:
+        start: 1965
+        end: 1991
